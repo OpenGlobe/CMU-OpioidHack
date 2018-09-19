@@ -7,7 +7,7 @@ This is a companion page for CMU students participating in the Hackathon. You ca
 **For official information related to the Hackathon, please see http://www.code4pa.tech/**
 
 ## Slack channel: https://code4pa.slack.com
-Join the Slack Channel!  
+Join the Slack Channel!  Missed the invite?  Go [here instead](https://join.slack.com/t/code4pa/signup). 
 
 ## Use cases
 Use cases can be reviewed and [downloaded here (PDF)](http://www.code4pa.tech/wp-content/uploads/2018/08/2018-Use-Cases.pdf). At the end of each case study will be a short list of possibly relevant places to look and / or datasets to consider.  
