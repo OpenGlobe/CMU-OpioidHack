@@ -1,5 +1,5 @@
-# CMU-OpioidHack
-GIS, data viz and PM resources for the CMU's partcipation in the Opioid Hackathon
+# CODE4PA CODEATHON 2018: Addressing the Opioid Epidemic
+Resources for the CMU's participation in the Opioid Hackathon September 21 - 22nd, 2018. 
 
 ## Website
 This is a companion page for CMU students participating in the Hackathon. You can help make it better by [opening an issue](https://github.com/OpenGlobe/CMU-OpioidHack/issues/new). 
@@ -10,7 +10,7 @@ This is a companion page for CMU students participating in the Hackathon. You ca
 Join the Slack Channel!  
 
 ## Use cases
-Use cases can be reviewed and downloaded here (PDF): http://www.code4pa.tech/wp-content/uploads/2018/08/2018-Use-Cases.pdf. At the end of each case study will be a short list of possibly relevant places to look and / or datasets to consider.  
+Use cases can be reviewed and [downloaded here (PDF)](http://www.code4pa.tech/wp-content/uploads/2018/08/2018-Use-Cases.pdf). At the end of each case study will be a short list of possibly relevant places to look and / or datasets to consider.  
 
 ## Sources of data
 The website directs you to a number of open data sources, starting with this listing: https://data.pa.gov/Government-That-Works/Open-Datasets-Refresh-Schedule/fqhz-hvw6
