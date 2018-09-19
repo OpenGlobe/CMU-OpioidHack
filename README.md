@@ -6,7 +6,7 @@ This is a companion page for CMU students participating in the Hackathon. You ca
 
 **For official information related to the Hackathon, please see http://www.code4pa.tech/**
 
-## Slack channel
+## Slack channel: https://code4pa.slack.com
 Join the Slack Channel!  
 
 ## Use cases
