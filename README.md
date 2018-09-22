@@ -16,18 +16,21 @@ Notes from 09/22 - Q&A [are here](https://docs.google.com/document/d/1HnGgTgxObG
 # Notes from 09/21 - kickoff
 They're not pretty and full o' typos, but [here they are!](/notes0921.md)
 
+# Resources for Teams
+
+## Slack channel: https://code4pa.slack.com
+Join the Slack Channel!  Missed the invite?  Go [here instead](https://join.slack.com/t/code4pa/signup).
+
 ## Website
 This is a companion page for CMU students participating in the Hackathon. You can help make it better by [opening an issue](https://github.com/OpenGlobe/CMU-OpioidHack/issues/new). 
 
-
-
 **For official information related to the Hackathon, please see http://www.code4pa.tech/**
-
-## Slack channel: https://code4pa.slack.com
-Join the Slack Channel!  Missed the invite?  Go [here instead](https://join.slack.com/t/code4pa/signup). 
 
 ## Use cases
 Use cases can be reviewed and [downloaded here (PDF)](http://www.code4pa.tech/wp-content/uploads/2018/08/2018-Use-Cases.pdf). At the end of each case study will be a short list of possibly relevant places to look and / or datasets to consider.  
+
+## Mentors
+Looking for help on a particular topic?  [Reach out to a mentor](https://code4pa.slack.com/files/U74Q1RL0K/FD02YRSA3/mentors_all.xlsx)!
 
 ## Sources of data
 The website directs you to a number of open data sources, starting with this listing: https://data.pa.gov/Government-That-Works/Open-Datasets-Refresh-Schedule/fqhz-hvw6
