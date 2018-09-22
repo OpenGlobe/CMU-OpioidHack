@@ -14,7 +14,7 @@ Notes from 09/22 - Q&A [are here](https://docs.google.com/document/d/1HnGgTgxObG
 They're not pretty and full o' typos, but [here they are!](/notes0921.md)
 
 # CMU Teams
-We'll flesh this out more tomorrow (Saturday), but these were the [four teams that pitched an idea tonight](/teams.md). 
+I know there are many, many, many more, but these are the [teams I have so far](/teams.md). These do not include information provided by SurveyMonkey, which we can add here once we get that information. 
 
 ## Website
 This is a companion page for CMU students participating in the Hackathon. You can help make it better by [opening an issue](https://github.com/OpenGlobe/CMU-OpioidHack/issues/new). 
