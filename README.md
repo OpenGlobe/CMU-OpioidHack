@@ -4,6 +4,9 @@ Resources for the CMU's participation in the Opioid Hackathon September 21 - 22n
 # Team Registration Link 
 Register your team via SurveyMonkey here: https://www.surveymonkey.com/r/code4pateams
 
+### CMU Teams
+I know there are many, many, many more, but these are the [teams I have so far](/teams.md). These do not include information provided by SurveyMonkey, which we can add here once we get that information. 
+
 # Webex Schedule for Saturday, 09/22/2018
 Webex schedule (Google Doc) [is here](https://docs.google.com/document/d/1QONE3uwbJX-LRn4G4uQTbgHPvCRXhGV4yT3IS253i1c/edit). 
 
@@ -12,9 +15,6 @@ Notes from 09/22 - Q&A [are here](https://docs.google.com/document/d/1HnGgTgxObG
 
 # Notes from 09/21 - kickoff
 They're not pretty and full o' typos, but [here they are!](/notes0921.md)
-
-# CMU Teams
-I know there are many, many, many more, but these are the [teams I have so far](/teams.md). These do not include information provided by SurveyMonkey, which we can add here once we get that information. 
 
 ## Website
 This is a companion page for CMU students participating in the Hackathon. You can help make it better by [opening an issue](https://github.com/OpenGlobe/CMU-OpioidHack/issues/new). 
