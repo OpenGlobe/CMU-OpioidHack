@@ -1,6 +1,9 @@
 # CODE4PA CODEATHON 2018: Addressing the Opioid Epidemic
 Resources for the CMU's participation in the Opioid Hackathon September 21 - 22nd, 2018. 
 
+# Team Registration Link 
+Register your team via SurveyMonkey here: https://www.surveymonkey.com/r/code4pateams
+
 # Webex Schedule for Saturday, 09/22/2018
 Webex schedule (Google Doc) [is here](https://docs.google.com/document/d/1QONE3uwbJX-LRn4G4uQTbgHPvCRXhGV4yT3IS253i1c/edit). 
 
