@@ -10,7 +10,7 @@ I know there are many, many, many more, but these are the [teams I have so far](
 # Webex Schedule for Saturday, 09/22/2018
 Webex schedule (Google Doc) [is here](https://docs.google.com/document/d/1QONE3uwbJX-LRn4G4uQTbgHPvCRXhGV4yT3IS253i1c/edit). 
 
-# Notes frmo 09/22 - Q&A
+# Notes from 09/22 - Q&A
 Notes from 09/22 - Q&A [are here](https://docs.google.com/document/d/1HnGgTgxObGa8fE4p6ZyA7RJaNb17BiPi_X07JwaDfvY/edit). 
 
 # Notes from 09/21 - kickoff
