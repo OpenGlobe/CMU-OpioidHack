@@ -2,33 +2,39 @@
 ### Addressing the Opioid Epidemic
 Resources for the CMU's participation in the Opioid Hackathon September 21 - 22nd, 2018. This is a companion page for CMU students participating in the Hackathon. You can help make it better by [opening an issue](https://github.com/OpenGlobe/CMU-OpioidHack/issues/new). 
 
-# Register your team
+# Getting started
+
+## [Official Website](http://www.code4pa.tech/)
+**For official information related to the Hackathon, please see http://www.code4pa.tech/**
+
+## [Slack channel](https://code4pa.slack.com): https://code4pa.slack.com
+Join the Slack Channel!  Missed the invite?  Go [here instead](https://join.slack.com/t/code4pa/signup).
+
+## Register your team
 Register your team via SurveyMonkey here: https://www.surveymonkey.com/r/code4pateams
 
 ### CMU teams
 I know there are many, many, many more, but these are the [teams I have so far](/teams.md). These do not include information provided by SurveyMonkey, which we can add here once we get that information. 
 
-# Webex schedule and recordings for Saturday, 09/22/2018	
+# Notes
+
+## Webex schedule and recordings for Saturday, 09/22/2018	
 The full schedule (Google Doc) [is here](https://docs.google.com/document/d/1QONE3uwbJX-LRn4G4uQTbgHPvCRXhGV4yT3IS253i1c/edit).  
 
 Missed something from Saturday's webinars or want a refresher?  Here's the [link](https://code4pa.slack.com/archives/CBU0MGS15/p1537633027000100) (via Slack) to the recorded webinars.   
 
-# Notes from 09/22 - Q&A
+## Notes from 09/22 - Q&A
 Notes from 09/22 - Q&A [are here](https://docs.google.com/document/d/1HnGgTgxObGa8fE4p6ZyA7RJaNb17BiPi_X07JwaDfvY/edit). 
 
-# Notes from 09/21 - kickoff
+## Notes from 09/21 - kickoff
 They're not pretty and full o' typos, but [here they are!](/notes0921.md)
 
-# [Slack channel](https://code4pa.slack.com): https://code4pa.slack.com
-Join the Slack Channel!  Missed the invite?  Go [here instead](https://join.slack.com/t/code4pa/signup).
+# Resources
 
-# [Official Website](http://www.code4pa.tech/)
-**For official information related to the Hackathon, please see http://www.code4pa.tech/**
-
-# [Tools](http://www.code4pa.tech/tools/)
+## [Tools](http://www.code4pa.tech/tools/)
 Note: you'll want to scroll to the bottom of the page to see resources provided by Esri, Tableau and SAP. 
 
-# Use cases
+## Use cases
 At the end of each case study will be a short list of possibly relevant places to look and / or datasets to consider.  
 
 ### [Agency use cases](http://www.code4pa.tech/wp-content/uploads/2018/08/2018-Use-Cases.pdf)
@@ -43,10 +49,10 @@ At the end of each case study will be a short list of possibly relevant places t
 
 ## [Pitch Deck Template](http://www.code4pa.tech/wp-content/uploads/2018/08/Code4PA-Pitch-Deck.pptx)
 
-# Mentors
+## Mentors
 Looking for help on a particular topic?  [Reach out to a mentor](https://code4pa.slack.com/files/U74Q1RL0K/FD02YRSA3/mentors_all.xlsx)!
 
-# Sources of data
+## Sources of data
 The website directs you to a number of open data sources, starting with this listing: https://data.pa.gov/Government-That-Works/Open-Datasets-Refresh-Schedule/fqhz-hvw6
 
 However, there are a number of data sets listed below that might also be helpful in your efforts (see the table).  You can [browse](https://data.pa.gov/browse) the general PA Open Data Site, look for datasets [related to opioids](https://data.pa.gov/browse?category=Opioid+Related&limitTo=datasets), or find data sorted by [status and agency ](https://data.pa.gov/Government-That-Works/Dataset-View-Sorted-by-Status-and-Business-Owner/shrx-g2sx).  
@@ -92,12 +98,14 @@ If you find a helpful resource, please [open an issue](https://github.com/OpenGl
 | VSRR Provisional Drug Overdose Death Counts                                                                          | https://catalog.data.gov/dataset/vsrr-provisional-drug-overdose-death-counts-54e35                                                | Federal          | HHS / Centers for Disease Control and Prevention                                         |
 | Washington DC Metropolitan Area Drug Study Homeless and Transient Population (DC-MADST-1991)                         | https://catalog.data.gov/dataset/washington-dc-metropolitan-area-drug-study-homeless-and-transient-population-dc-madst-1991       | Federal          | Substance Abuse and Mental Health Services Administration                                |
 
-# Other resources
+# Other stuff
 Links to other providers of data (Federal, etc.) - https://data.pa.gov/browse?Data-Management_Localities=Federal+Government
 
 [America's Opioid Epidemic](http://www.scattergoodfoundation.org/sites/default/files/AmericasOpioidEpdemic.pdf) (paper)
 
 [Opioid Use Disorder in Pregnant Women and New Moms Challenge](https://bit.ly/2NnsvJI)
+
+# Miscellaneous
 
 ### Crash data dictionary (stub)
 DRUG_RELATED - At least one Driver or Pedestrian with Drugs reported or suspected
