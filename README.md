@@ -1,13 +1,13 @@
 # CODE4PA CODEATHON 2018: Addressing the Opioid Epidemic
-Resources for the CMU's participation in the Opioid Hackathon September 21 - 22nd, 2018. 
+Resources for the CMU's participation in the Opioid Hackathon September 21 - 22nd, 2018. This is a companion page for CMU students participating in the Hackathon. You can help make it better by [opening an issue](https://github.com/OpenGlobe/CMU-OpioidHack/issues/new). 
 
-# Team Registration Link 
+# Register your team
 Register your team via SurveyMonkey here: https://www.surveymonkey.com/r/code4pateams
 
-### CMU Teams
+### CMU teams
 I know there are many, many, many more, but these are the [teams I have so far](/teams.md). These do not include information provided by SurveyMonkey, which we can add here once we get that information. 
 
-# Webex Schedule and Recordings from Saturday, 09/22/2018	
+# Webex schedule and recordings for Saturday, 09/22/2018	
 The full schedule (Google Doc) [is here](https://docs.google.com/document/d/1QONE3uwbJX-LRn4G4uQTbgHPvCRXhGV4yT3IS253i1c/edit).  
 
 Missed something from Saturday's webinars or want a refresher?  Here's the [link](https://code4pa.slack.com/archives/CBU0MGS15/p1537633027000100) (via Slack) to the recorded webinars.   
@@ -18,18 +18,31 @@ Notes from 09/22 - Q&A [are here](https://docs.google.com/document/d/1HnGgTgxObG
 # Notes from 09/21 - kickoff
 They're not pretty and full o' typos, but [here they are!](/notes0921.md)
 
-# Resources for Teams
+# Resources for teams
 
 ## Slack channel: https://code4pa.slack.com
 Join the Slack Channel!  Missed the invite?  Go [here instead](https://join.slack.com/t/code4pa/signup).
 
 ## Website
-This is a companion page for CMU students participating in the Hackathon. You can help make it better by [opening an issue](https://github.com/OpenGlobe/CMU-OpioidHack/issues/new). 
-
 **For official information related to the Hackathon, please see http://www.code4pa.tech/**
 
+### [Tools](http://www.code4pa.tech/tools/)
+Note: you'll want to scroll to the bottom of the page to see resources provided by Esri, Tableau and SAP. 
+
 ## Use cases
-Use cases can be reviewed and [downloaded here (PDF)](http://www.code4pa.tech/wp-content/uploads/2018/08/2018-Use-Cases.pdf). At the end of each case study will be a short list of possibly relevant places to look and / or datasets to consider.  
+At the end of each case study will be a short list of possibly relevant places to look and / or datasets to consider.  
+
+### [Agency use cases](http://www.code4pa.tech/wp-content/uploads/2018/08/2018-Use-Cases.pdf)
+
+### [Warm hand-off use case](http://www.code4pa.tech/wp-content/uploads/2018/09/warm-handoff-use-case.pdf)
+
+### [SAP veterans use case](http://www.code4pa.tech/wp-content/uploads/2018/09/veterans-use-case.pdf)
+
+### [PA Opioid Dashboard](https://data.pa.gov/stories/s/Pennsylvania-Opioids/9q45-nckt/)
+
+### [Other inspirational ideas](http://www.code4pa.tech/wp-content/uploads/2018/09/Inspirational-Ideas-for-Development.pdf)
+
+## [Pitch Deck Template](http://www.code4pa.tech/wp-content/uploads/2018/08/Code4PA-Pitch-Deck.pptx)
 
 ## Mentors
 Looking for help on a particular topic?  [Reach out to a mentor](https://code4pa.slack.com/files/U74Q1RL0K/FD02YRSA3/mentors_all.xlsx)!
@@ -82,6 +95,10 @@ If you find a helpful resource, please [open an issue](https://github.com/OpenGl
 
 ## Other resources
 Links to other providers of data (Federal, etc.) - https://data.pa.gov/browse?Data-Management_Localities=Federal+Government
+
+[America's Opioid Epidemic](http://www.scattergoodfoundation.org/sites/default/files/AmericasOpioidEpdemic.pdf) (paper)
+
+[Opioid Use Disorder in Pregnant Women and New Moms Challenge](https://bit.ly/2NnsvJI)
 
 ### Crash data dictionary (stub)
 DRUG_RELATED - At least one Driver or Pedestrian with Drugs reported or suspected
