@@ -18,18 +18,16 @@ Notes from 09/22 - Q&A [are here](https://docs.google.com/document/d/1HnGgTgxObG
 # Notes from 09/21 - kickoff
 They're not pretty and full o' typos, but [here they are!](/notes0921.md)
 
-# Resources for teams
-
-## Slack channel: https://code4pa.slack.com
+# [Slack channel](https://code4pa.slack.com): https://code4pa.slack.com
 Join the Slack Channel!  Missed the invite?  Go [here instead](https://join.slack.com/t/code4pa/signup).
 
-## Website
+# [Official Website](http://www.code4pa.tech/)
 **For official information related to the Hackathon, please see http://www.code4pa.tech/**
 
-### [Tools](http://www.code4pa.tech/tools/)
+# [Tools](http://www.code4pa.tech/tools/)
 Note: you'll want to scroll to the bottom of the page to see resources provided by Esri, Tableau and SAP. 
 
-## Use cases
+# Use cases
 At the end of each case study will be a short list of possibly relevant places to look and / or datasets to consider.  
 
 ### [Agency use cases](http://www.code4pa.tech/wp-content/uploads/2018/08/2018-Use-Cases.pdf)
@@ -44,10 +42,10 @@ At the end of each case study will be a short list of possibly relevant places t
 
 ## [Pitch Deck Template](http://www.code4pa.tech/wp-content/uploads/2018/08/Code4PA-Pitch-Deck.pptx)
 
-## Mentors
+# Mentors
 Looking for help on a particular topic?  [Reach out to a mentor](https://code4pa.slack.com/files/U74Q1RL0K/FD02YRSA3/mentors_all.xlsx)!
 
-## Sources of data
+# Sources of data
 The website directs you to a number of open data sources, starting with this listing: https://data.pa.gov/Government-That-Works/Open-Datasets-Refresh-Schedule/fqhz-hvw6
 
 However, there are a number of data sets listed below that might also be helpful in your efforts (see the table).  You can [browse](https://data.pa.gov/browse) the general PA Open Data Site, look for datasets [related to opioids](https://data.pa.gov/browse?category=Opioid+Related&limitTo=datasets), or find data sorted by [status and agency ](https://data.pa.gov/Government-That-Works/Dataset-View-Sorted-by-Status-and-Business-Owner/shrx-g2sx).  
@@ -93,7 +91,7 @@ If you find a helpful resource, please [open an issue](https://github.com/OpenGl
 | VSRR Provisional Drug Overdose Death Counts                                                                          | https://catalog.data.gov/dataset/vsrr-provisional-drug-overdose-death-counts-54e35                                                | Federal          | HHS / Centers for Disease Control and Prevention                                         |
 | Washington DC Metropolitan Area Drug Study Homeless and Transient Population (DC-MADST-1991)                         | https://catalog.data.gov/dataset/washington-dc-metropolitan-area-drug-study-homeless-and-transient-population-dc-madst-1991       | Federal          | Substance Abuse and Mental Health Services Administration                                |
 
-## Other resources
+# Other resources
 Links to other providers of data (Federal, etc.) - https://data.pa.gov/browse?Data-Management_Localities=Federal+Government
 
 [America's Opioid Epidemic](http://www.scattergoodfoundation.org/sites/default/files/AmericasOpioidEpdemic.pdf) (paper)
