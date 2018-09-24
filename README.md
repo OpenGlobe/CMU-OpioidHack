@@ -1,4 +1,5 @@
-# CODE4PA CODEATHON 2018: Addressing the Opioid Epidemic
+# CODE4PA CODEATHON 2018 
+# Addressing the Opioid Epidemic
 Resources for the CMU's participation in the Opioid Hackathon September 21 - 22nd, 2018. This is a companion page for CMU students participating in the Hackathon. You can help make it better by [opening an issue](https://github.com/OpenGlobe/CMU-OpioidHack/issues/new). 
 
 # Register your team
