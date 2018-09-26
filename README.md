@@ -107,6 +107,8 @@ Links to other providers of data (Federal, etc.) - https://data.pa.gov/browse?Da
 
 [Opioid-Related Overdose Deaths in Allegheny County: Report and Data Visualizations – Allegheny County Analytics: Reports, Visualizations and Datasets](https://www.alleghenycountyanalytics.us/index.php/2018/02/15/opioid-related-overdose-deaths-allegheny-county-report-data-visualizations/)
 
+[Public Good Projects](http://www.publicgoodprojects.org/opioid-crisis#opioid-monitoring) - including Chatbot!
+
 ## Reducing Stigma
 https://www.shatterproof.org/about-addiction/stigma/stigma-reducing-language.  
 
